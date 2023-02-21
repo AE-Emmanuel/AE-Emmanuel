@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-#### I'm a Full-Stack developer, DevOPS and Cloud Computing Enthusiast from India 🇮🇳
+#### I'm a Web developing Enthusiast who loves to HTML 
 
 - 🏢 I'm currently Studying 3rd year B.E CSE at St. Joseph's College of Engineering
 - ⚡️ I enjoy working with new technologies
