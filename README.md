@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 - 🏢 I'm currently Studying 3rd year B.E CSE at St. Joseph's College of Engineering
 - ⚡️ I enjoy working with new technologies
 - ⚙️ I use : `.html`, `.css` , `.php` , `.cpp`, `.py`,`.java`
+- 💬 Ask me about ... Web Development (HTML,CSS,JS,PHP,Bootstrap) and anything about web page creation
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sam-emmanuel-1b0397247/)
 - 😄 Pronouns: He/Him
-- ⚡️ Fun fact: I'm a die hard Gamer
+- ⚡️ Fun fact: I'm a Gamer 
 
 ---
