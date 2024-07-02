@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 
-#### I'm a Web developing Enthusiast who loves HTML 
+#### I'm a AI Enthusiast who just loves AI 
 
-- 🏢 I'm currently Studying 3rd year B.E CSE at St. Joseph's College of Engineering
+- 🏢 I'm currently looking for jobs:)
 - ⚡️ I enjoy working with new technologies
-- ⚙️ I use : `.html`, `.css` , `.php` , `.cpp`, `.py`,`.java`
-- 💬 Ask me about ... Web Development (HTML,CSS,JS,PHP,Bootstrap) and anything about web page creation
+- ⚙️ I use :  `.py`,`.java`,`.html`, `.css` , `.php` , `.cpp`
+- 💬 Ask me about ... AI , python, JAVA...... also some of these - (HTML,CSS,JS,PHP,Bootstrap) 
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sam-emmanuel-1b0397247/)
-- ⚡️ Fun fact: I'm a Gamer 
+- ⚡️ Fun fact: I'm a Gamer and a streamer 
 
 ---
