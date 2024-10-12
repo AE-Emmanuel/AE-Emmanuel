@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚙️ I use :  `.py`,`.java`,`.html`, `.css` , `.php` , `.cpp`
 - 💬 Ask me about ... AI , python, JAVA...... also some of these - (HTML,CSS,JS,PHP,Bootstrap) 
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sam-emmanuel-1b0397247/)
-- ⚡️ Fun fact: I'm a Gamer and a streamer 
+- ⚡️ Fun fact: I'm a Gamer and a streamer [My Channel Link](https://www.youtube.com/@KiteLiteYT)
 
 ---
