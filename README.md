@@ -1,4 +1,4 @@
-
+John 15:18
 
 # 💫 About Me:
 I'm a AI Enthusiast who just loves AI<br>🏢 I'm currently looking for jobs:)<br>⚡️ I enjoy working with new technologies<br>📫i love AI and APIs <br> ⚡️ Fun fact: I'm a Gamer and a streamer [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@KiteLiteYT) 
